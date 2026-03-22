@@ -1,0 +1,7 @@
+pyrogram==2.0.106
+pytgcalls==4.0.0
+yt-dlp
+motor
+pymongo[srv]
+python-dotenv
+aiofiles
